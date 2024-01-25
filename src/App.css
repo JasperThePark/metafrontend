@@ -82,6 +82,19 @@ padding: 10px 13%;
 position: relative;
 }
 
+.footer{
+  background-color: rgb(205, 205, 205);
+  color: white;
+}
+
+.footer a{
+  color: rgb(62, 114, 255);
+}
+
+
+.footer a:hover{
+  color: rgb(0, 68, 255);
+}
 
 h2 {
   color: #F4CE14;
